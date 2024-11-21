@@ -137,3 +137,4 @@ ls --color=auto -l
 ls --color=auto -l
 ./questionnaire
 ./questionnaire.sh
+./questionnaire.sh
