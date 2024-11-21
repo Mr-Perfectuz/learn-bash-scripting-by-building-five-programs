@@ -337,3 +337,4 @@ $VAR == "hello world"
 [[ test? =~ \?$ ]]
 [[ $QUESTION =~ \?$ ]]
 ./fortune.sh
+./fortune.sh
