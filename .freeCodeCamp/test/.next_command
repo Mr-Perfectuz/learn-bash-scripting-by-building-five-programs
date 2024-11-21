@@ -334,3 +334,4 @@ $VAR == "hello world"
 $VAR == "hello world"
 [[ $VAR == "hello world" ]]
 [[ $VAR =~ \?$ ]]
+[[ test? =~ \?$ ]]
