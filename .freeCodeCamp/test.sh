@@ -16,4 +16,8 @@ FORTUNE=${RESPONSES[$RANDOM_INDEX]}
 # Display the fortune
 echo "Your fortune: $FORTUNE"
 echo ${RESPONSES[$N]}
-N=$(( RANDOM %1 ))
+N=$(( RANDOM % 6 ))
+GET_FORTUNE() {
+  echo Ask a yes or no question:
+}
+GET_FORTUNE
