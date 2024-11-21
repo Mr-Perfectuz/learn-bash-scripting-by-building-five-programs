@@ -254,3 +254,4 @@ help while
 sleep 1
 sleep 1
 ./countdown.sh 5
+touch bingo.sh
