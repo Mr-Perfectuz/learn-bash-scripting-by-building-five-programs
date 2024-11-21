@@ -146,3 +146,4 @@ echo --help
 echo --help
 ./questionnaire.sh
 echo --help
+man echo
