@@ -148,3 +148,4 @@ echo --help
 echo --help
 man echo
 ./questionnaire.sh
+./questionnaire.sh
