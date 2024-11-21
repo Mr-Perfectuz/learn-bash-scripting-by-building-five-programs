@@ -309,3 +309,4 @@ declare -p ARR
 echo ${ARR[@]}
 ./fortune.sh
 ./fortune.sh
+./fortune.sh
