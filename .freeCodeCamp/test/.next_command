@@ -300,3 +300,4 @@ touch fortune.sh
 chmod +x bingo.sh
 chmod +x fortune.sh
 ./fortune.sh
+ARR=("a" "b" "c")
