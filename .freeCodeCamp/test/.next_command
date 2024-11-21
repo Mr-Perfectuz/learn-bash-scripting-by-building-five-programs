@@ -314,3 +314,4 @@ __vsc_prompt_cmd_original
 N=$(( RANDOM % 6 ))
 help
 help function
+./fortune.sh
