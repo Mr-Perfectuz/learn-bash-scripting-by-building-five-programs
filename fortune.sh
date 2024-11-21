@@ -23,7 +23,7 @@ GET_FORTUNE() {
   read QUESTION
 }
 
-until [[ $QUESTION == test? ]]
+until [[ $QUESTION =~ \?$ ]]
 do
   GET_FORTUNE
 done
