@@ -248,3 +248,4 @@ __vsc_prompt_cmd_original
 sleep 3
 sleep 1
 ./countdown.sh 3
+./countdown.sh 3
