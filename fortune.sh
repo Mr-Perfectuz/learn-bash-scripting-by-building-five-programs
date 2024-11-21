@@ -32,5 +32,7 @@ fi
 
 until [[ $QUESTION =~ \?$ ]]
 do
+GET_FORTUNE
   GET_FORTUNE again
+  
 done
