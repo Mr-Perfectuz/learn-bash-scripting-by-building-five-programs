@@ -282,3 +282,6 @@ echo $J
 declare -p
 declare -p J
 declare -p RANDOM
+echo $(( <calculation> ))
+echo $(( <calculation> ))
+echo $(( RANDOM % 75 ))
