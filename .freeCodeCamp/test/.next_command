@@ -251,3 +251,5 @@ sleep 1
 ./countdown.sh 3
 ./countdown.sh 1
 help while
+sleep 1
+sleep 1
