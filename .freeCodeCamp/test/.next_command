@@ -285,3 +285,6 @@ declare -p RANDOM
 echo $(( <calculation> ))
 echo $(( <calculation> ))
 echo $(( RANDOM % 75 ))
+claer
+clear
+echo $(( RANDOM % 75 + 1 ))
