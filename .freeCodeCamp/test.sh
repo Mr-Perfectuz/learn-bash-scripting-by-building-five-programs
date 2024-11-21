@@ -18,10 +18,20 @@ echo "Your fortune: $FORTUNE"
  echo ${RESPONSES[$N]}
 
 N=$(( RANDOM % 6 ))
-GET_FORTUNE() {
+
+function GET_FORTUNE() {
+if [[ ! $1 ]]
+then
   echo Ask a yes or no question:
+else
+  echo Try again. Make sure it ends with a question mark:
+fi
+
   read QUESTION
 }
 
-GET_FORTUNE
-echo $QUESTION
+until [[ $QUESTION =~ \?$ ]]
+do
+  GET_FORTUNE
+done
+GET_FORTUNE again
