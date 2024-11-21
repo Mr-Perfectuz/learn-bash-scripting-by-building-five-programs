@@ -217,3 +217,4 @@ cd ~/project
 ./countdown.sh 5
 help
 help [[ i
+help test
