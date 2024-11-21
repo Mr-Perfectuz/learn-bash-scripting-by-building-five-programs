@@ -145,3 +145,4 @@ __vsc_prompt_cmd_original
 echo --help
 echo --help
 ./questionnaire.sh
+echo --help
