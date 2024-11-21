@@ -361,3 +361,4 @@ help type
 type echo
 type read
 type if
+type then
