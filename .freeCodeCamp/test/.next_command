@@ -366,3 +366,8 @@ type bash
 type psql
 type ./five.sh
 exit
+git status
+git push origin main
+git add .
+git status
+git add .
