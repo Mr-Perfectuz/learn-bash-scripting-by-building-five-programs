@@ -257,3 +257,4 @@ sleep 1
 touch bingo.sh
 chmod +x countdown.sh
 chmod +x bingo.sh
+./bingo.sh
