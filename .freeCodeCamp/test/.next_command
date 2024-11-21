@@ -215,3 +215,4 @@ cd ~/project
 ./countdown.sh 1
 ./countdown.sh 4
 ./countdown.sh 5
+help
