@@ -15,4 +15,6 @@ FORTUNE=${RESPONSES[$RANDOM_INDEX]}
 
 # Display the fortune
 echo "Your fortune: $FORTUNE"
-declare -p RESPONSES
+echo ${RESPONSES[5]}
+N=$(( RANDOM % 6 ))
+echo $N
