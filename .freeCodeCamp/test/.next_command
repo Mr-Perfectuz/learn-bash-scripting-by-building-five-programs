@@ -320,3 +320,4 @@ __vsc_prompt_cmd_original
 help
 help until
 help test
+./fortune.sh
