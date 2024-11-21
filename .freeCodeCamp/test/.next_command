@@ -156,3 +156,10 @@ man echo
 touch countdown.sh
 chmod +x countdown.sh
 touch countdown.sh
+touch countdown.sh
+./questionnaire.sh
+./countdown.sh.
+./countdown.sh.
+ls --color=auto
+./countdown.sh.
+./countdown.sh
