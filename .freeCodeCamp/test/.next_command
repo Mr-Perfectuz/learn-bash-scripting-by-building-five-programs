@@ -294,3 +294,5 @@ NUMBER=$(( RANDOM % 75 + 1 ))
 TEXT="The next number is, "
 TEXT="The next number is, "
 help let
+./bingo.sh
+./bingo.sh
